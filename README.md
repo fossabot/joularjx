@@ -1,6 +1,7 @@
 # <a href="https://www.noureddine.org/research/joular/"><img src="https://raw.githubusercontent.com/joular/.github/main/profile/joular.png" alt="Joular Project" width="64" /></a> JoularJX :microscope:
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue)](https://www.gnu.org/licenses/gpl-3.0)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjoular%2Fjoularjx.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjoular%2Fjoularjx?ref=badge_shield)
+
 [![Java](https://img.shields.io/badge/Made%20with-Java-orange)](https://openjdk.java.net)
 
 ![JoularJX Logo](joularjx.png)
@@ -156,3 +157,6 @@ Copyright (c) 2021-2024, Adel Noureddine, Université de Pau et des Pays de l'Ad
 All rights reserved. This program and the accompanying materials are made available under the terms of the GNU General Public License v3.0 only (GPL-3.0-only) which accompanies this distribution, and is available at: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Author : Adel Noureddine
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjoular%2Fjoularjx.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjoular%2Fjoularjx?ref=badge_large)
